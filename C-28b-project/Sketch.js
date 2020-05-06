@@ -1,6 +1,7 @@
 var Example = Example || {};
 
-Example.slingshot = function() {
+Example.slingshot = function() 
+{
     var Engine = Matter.Engine,
         Render = Matter.Render,
         Runner = Matter.Runner,
